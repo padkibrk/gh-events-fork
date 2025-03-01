@@ -1,7 +1,7 @@
 import HelpBox from './HelpBox';
 import './HelpArea.css';
 
-// This is a Test Fork - 1
+// This is a Test Fork - 1 from VS Studio
 
 const HELP_ITEMS = [
   {
